@@ -1,4 +1,4 @@
-package com.tns.ifet.day1;
+package com.tns.ifet.dayone;
 
 public class FirstProgram {
 	public static void main(String[] args) {
